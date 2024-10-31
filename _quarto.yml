@@ -6,8 +6,10 @@ website:
   
   navbar:
     left:
-      - href: index.qmd
-        text: Home
+      - text: Home
+        href: index.qmd
+      - text: Install
+        href: install.qmd
       - about.qmd
     right:
       - icon: github
