@@ -1,0 +1,13 @@
+---
+title: "Install ICTML"
+---
+
+The ICTML software suite is available via [R].  It is implemented in R,
+Python, C, and C++.  It can be installed as:
+
+```r
+install.packages("ictml", repos = c("https://ictml-project.r-universe.dev",
+                                    "https://cloud.r-project.org"))
+```
+
+[R]: https://www.r-project.org/
