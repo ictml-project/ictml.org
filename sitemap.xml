@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.ictml.org/index.html</loc>
-    <lastmod>2024-10-31T16:08:55.986Z</lastmod>
+    <loc>https://www.ictml.org/install.html</loc>
+    <lastmod>2024-10-31T16:29:05.937Z</lastmod>
   </url>
   <url>
     <loc>https://www.ictml.org/about.html</loc>
-    <lastmod>2024-10-31T16:08:55.982Z</lastmod>
+    <lastmod>2024-10-31T16:29:05.937Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ictml.org/index.html</loc>
+    <lastmod>2024-10-31T16:29:05.937Z</lastmod>
   </url>
 </urlset>

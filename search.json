@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "The ICTML Project",
+    "objectID": "install.html",
+    "href": "install.html",
+    "title": "Install ICTML",
     "section": "",
-    "text": "The Interpretable Causal Targeted Machine Learning (ICTML) Project …"
+    "text": "The ICTML software suite is available via R. It is implemented in R, Python, C, and C++. It can be installed as:\ninstall.packages(\"ictml\", repos = c(\"https://ictml-project.r-universe.dev\",\n                                    \"https://cloud.r-project.org\"))"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "The ICTML Project",
+    "section": "",
+    "text": "The Interpretable Causal Targeted Machine Learning (ICTML) Project …"
   }
 ]
