@@ -1,16 +1,18 @@
 project:
   type: website
+  output-dir: ../_site
 
 website:
-  title: "The ICTML Project"
+  title: "ICTML"
   
   navbar:
     left:
       - text: Home
         href: index.qmd
-      - text: Install
-        href: install.qmd
-      - about.qmd
+      # - text: Install
+      #   href: install.qmd
+      - software.qmd
+      - team.qmd
     right:
       - icon: github
         href: https://github.com/ictml-project/ictml.org/
@@ -25,6 +27,8 @@ website:
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme:
+      light: assets/ictml-light.scss
+      dark: assets/ictml-dark.scss
+    css: assets/ictml.css
     toc: true

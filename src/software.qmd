@@ -1,0 +1,11 @@
+# Software {#sec-software}
+
+ICTML will combine the strengths of [rtemis](https://rtemis.org), the 
+[TLverse](https://tlverse.org/), and the [futureverse](https://www.futureverse.org/) to provide a
+highly efficient, user-friendly, and scalable end-to-end platform for machine learning and causal
+inference.
+
+<br>
+
+![](assets/ICTML_graph.svg){.centered-img}
+: ICTML components, highlighting a subset of core third-party dependencies.

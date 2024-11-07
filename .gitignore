@@ -9,3 +9,6 @@
 /.quarto/
 /docs/
 _site/
+
+# Dev
+dev/

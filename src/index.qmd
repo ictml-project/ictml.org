@@ -1,0 +1,12 @@
+# ICTML
+
+The Interpretable Causal Targeted Machine Learning (ICTML) Project is a multi-institution 
+collaboration that aims to: 
+
+- Develop a highly efficient, user-friendly, and scalable end-to-end platform for machine learning and causal inference.
+- Provide a comprehensive educational resource for working with real world data.
+- Support a wide national network of collaborators in cancer research.
+
+<br>
+
+![](assets/ICTML_locations_logos.webp){style="width: 90%; margin: auto; display: block;"}
