@@ -42,6 +42,10 @@ h4 {
   padding: 0.333em;  
 }
 
+.navbar-logo {
+  max-height: 48px;
+}
+
 /* Container of h3 imgtxt + text */
 .h3container h3 {
   margin-left: 9px;

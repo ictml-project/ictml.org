@@ -4,8 +4,11 @@ project:
 
 website:
   title: "ICTML"
+  favicon: assets/ICTML_teal_cut.svg
   
   navbar:
+    logo: assets/ICTML_teal_cut.svg
+    title: " "
     left:
       - text: Home
         href: index.qmd
