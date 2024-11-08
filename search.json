@@ -25,7 +25,7 @@
     "href": "software.html",
     "title": "Software",
     "section": "",
-    "text": "Software\nICTML will combine the strengths of rtemis, the TLverse, and the futureverse to provide a highly efficient, user-friendly, and scalable end-to-end platform for machine learning and causal inference.\n\n\n\n\nICTML components, highlighting a subset of core third-party dependencies."
+    "text": "Software\nICTML combines the strengths of rtemis, the TLverse, and the futureverse to provide a highly efficient, user-friendly, and scalable end-to-end platform for machine learning and causal inference.\n\n\n\n\nICTML components, highlighting a subset of core third-party dependencies."
   },
   {
     "objectID": "install.html",
