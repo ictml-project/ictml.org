@@ -9,4 +9,4 @@ collaboration that aims to:
 
 <br>
 
-![](assets/ICTML_locations_logos.webp){style="width: 90%; margin: auto; display: block;"}
+![](assets/ICTML_sites.webp){style="width: 90%; margin: auto; display: block;"}
