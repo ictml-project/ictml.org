@@ -11,7 +11,7 @@
 ![](assets/Bengtsson_Henrik.webp){.left-aligned-img}
 
 Henrik Bengtsson, has a MSc in Computer Science and a PhD in Mathematical Statistics. He is an associate professor at the Department of Epidemiology & Biostatistics, at University of California San Francisco (UCSF) and affiliated with the UCSF Helen Diller Family Comprehensive Cancer Center.
-Henrik is one of forty members of the R Foundation - a non-profit organization that supports the R Project, its continued development of the R language, and the R community around it. Through this work, he is also a member, chair, and the director of the R Consortium Infrastructure Software Committee (ISC), which supports research & development activities related to R through a grant program with financial support from leading industry investors.
+Henrik is one of forty members of the R Foundation - a non-profit organization that supports the R Project, its continued development of the R language, and the R community around it. Through this work, he is also a member, chair, and the director of the R Consortium Infrastructure Software Committee (ISC), which supports research & development activities related to R through a grant program with financial support from leading industry investors. He is the author of the [futureverse](https://www.futureverse.org/).
 
 :::
 
@@ -21,7 +21,7 @@ Henrik is one of forty members of the R Foundation - a non-profit organization t
 
 ![](assets/Gennatas_Stathis.webp){.left-aligned-img}
 
-Efstathios (Stathis) D. Gennatas, MBBS AICSM PhD, is an Assistant Professor in the Department of Epidemiology and Biostatistics at UCSF. His work includes applied data science in basic research, clinical predictive modeling using electronic health records to improve patient outcomes, and the development of machine learning methods and software for biomedical data analysis. His overarching goal is to help make precision medicine a reality in a safe, fair, and efficient way. He is an affiliate of the Institute for Global Health Sciences, the Bakar Computational Health Sciences Institute, and the Center for Intelligent Imaging. He holds a medical degree from Imperial College London and a PhD in Neuroscience from the University of Pennsylvania.
+Efstathios (Stathis) D. Gennatas, MBBS AICSM PhD, is an Assistant Professor in the Departments of Epidemiology & Biostatistics and Medicine at UCSF. His work includes the development of machine learning methods and software for biomedical data analysis, applied data science in basic research, clinical medicine, and public health. His overarching goal is to help make precision medicine a reality in a safe, fair, and efficient way. He is an affiliate of the Center for Targeted Machine Learning and Causal Inference, the Bakar Computational Health Sciences Institute, the Institute for Global Health Sciences, and the Center for Intelligent Imaging. He holds a medical degree from Imperial College London and a PhD in Neuroscience from the University of Pennsylvania. He is the author [rtemis](https://rtemis.org).
 
 :::
 
@@ -41,7 +41,7 @@ My research explores how advances in causal inference, statistical machine learn
 
 ![](assets/Phillips_Rachael.webp){.left-aligned-img}
 
-Rachael V. Phillips, PhD is a Biostatistician at the UC Berkeley Research Center for Targeted Machine Learning and Causal Inference (CTML). At CTML, Rachael collaborates with pharmaceutical, regulatory, clinical, and academic researchers. She is also on the core development team of the TLverse open-source software project and corresponding software handbook. Broadly, Rachael’s research integrates targeted machine learning and causal inference to realistically approximate answers to causal questions with statistical confidence. Some highlighted recent work includes the development of frameworks and guidelines for clinical AI-QI, personalized online learning from ICU streaming data, and statistical methodology for complex real-world evidence (RWE) studies including RWE studies in oncology.
+Rachael V. Phillips, PhD is a Biostatistician at the UC Berkeley Research Center for Targeted Machine Learning and Causal Inference (CTML). At CTML, Rachael collaborates with pharmaceutical, regulatory, clinical, and academic researchers. She is also on the core development team of the [TLverse](https://tlverse.org/) open-source software project and corresponding software handbook. Broadly, Rachael’s research integrates targeted machine learning and causal inference to realistically approximate answers to causal questions with statistical confidence. Some highlighted recent work includes the development of frameworks and guidelines for clinical AI-QI, personalized online learning from ICU streaming data, and statistical methodology for complex real-world evidence (RWE) studies including RWE studies in oncology.
 
 :::
 
