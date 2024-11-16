@@ -25,6 +25,16 @@ Efstathios (Stathis) D. Gennatas, MBBS AICSM PhD, is an Assistant Professor in t
 
 :::
 
+### Jeremy Goecks, PhD
+
+::: {.imgtxt}
+
+![](assets/Goecks_Jeremy.webp){.left-aligned-img}
+
+Dr. Jeremy Goecks is Assistant Center Director for Research Informatics and an Associate Member in the Department of Machine Learning at the Moffitt Cancer Center. In his role as Assistant Center Director for Research Informatics, he leads strategy for accelerating cancer research at Moffitt using informatics technologies as well as advancing research informatics prototypes to production use at Moffitt. In his faculty role, Dr. Goecks heads a computational research laboratory working at the intersection of biomedical data science, high-performance computing, and precision medicine. He has held leadership positions in several national and international biomedical consortia. He is currently co-lead for the Galaxy computational workbench, which is used by thousands of scientists across the world daily.
+
+:::
+
 ### Nima Hejazi, PhD
 
 ::: {.imgtxt}
