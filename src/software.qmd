@@ -7,5 +7,5 @@ inference.
 
 <br>
 
-![](assets/ictml_graph.svg){.centered-img}
+![](assets/graph.svg){.centered-img}
 : ICTML components, highlighting a subset of core third-party dependencies.

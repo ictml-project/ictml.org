@@ -9,5 +9,5 @@ collaboration that aims to:
 
 <br>
 
-![](assets/ictml_sites.webp){style="width: 90%; margin: auto; display: block;"}
-![](assets/ictml_logos_light.svg){.invertable style="width: 90%; margin: auto; display: block; padding-top: 1em;"}
+![](assets/sites.webp){style="width: 90%; margin: auto; display: block;"}
+![](assets/logos.svg){.invertable style="width: 90%; margin: auto; display: block; padding-top: 1em;"}
