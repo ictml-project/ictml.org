@@ -4,10 +4,10 @@ project:
 
 website:
   title: "ICTML"
-  favicon: assets/ICTML_teal_cut.svg
+  favicon: assets/ictml_teal_cut.svg
   
   navbar:
-    logo: assets/ICTML_teal_cut.svg
+    logo: assets/ictml_teal_cut.svg
     title: " "
     left:
       - text: Home
