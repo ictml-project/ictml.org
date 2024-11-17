@@ -100,3 +100,9 @@ dt + dd {
   width: 33%;
   /* overflow: hidden; */
 }
+
+/* Invertable image transparency */
+.invertable {
+  /* Make 75% transparent */
+  opacity: 0.75;
+}
