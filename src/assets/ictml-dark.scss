@@ -327,3 +327,9 @@ $container-lg: $container-large-desktop  !default;
 .left-aligned-img {
   filter: drop-shadow(0 0 4px #ccc);
 }
+
+// Invertable image
+.invertable {
+  // Invert image
+  filter: invert(100%);
+}
